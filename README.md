@@ -1,4 +1,4 @@
-# Android device tree for TECNO  (FULL-64-ARMV82)
+# Android device tree for Tecno Spark 10 pro (KI7)
 
 ```
 #
